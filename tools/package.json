@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tools/package.json",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mercii293/Postly.git"
+  },
+  "author": "Macy Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mercii293/Postly/issues"
+  },
+  "homepage": "https://github.com/Mercii293/Postly#readme"
+}
